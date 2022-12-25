@@ -1,2 +1,1 @@
-# hello
-chcp 65001
+# hell
